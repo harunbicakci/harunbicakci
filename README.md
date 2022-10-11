@@ -1,5 +1,5 @@
 - 👋 String name = "Harun Bicakci";
-- 📅 String coding, testing, triathlon, chess, guitar, camping;
+- 📅 String[] hobbies = {coding, testing, triathlon, chess, guitar, camping};
 - 📲 Scanner java = new Scanner(System.in);
 - 💻 if (opportunity) {
 -             vision += "Hardworking" + "Consistency" + "Intensity";
